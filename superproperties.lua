@@ -27,18 +27,18 @@ return {
   graph_background_color = blingbling_theme.graph_background_color or "#00000066" ;
   graph_background_border= blingbling_theme.graph_background_border or "#00000000" ;
   rounded_size= blingbling_theme.rounded_size or 0 ;
-  graph_color= blingbling_theme.graph_color or "#7fb21966" ;
-  graph_line_color= blingbling_theme.graph_line_color or "#7fb219" ;
-  text_color= blingbling_theme.text_color or "#ffffff" ;
-  font_size= blingbling_theme.font_size or 9 ;
-  font = blingbling_theme.font or "sans";
+  graph_color= blingbling_theme.graph_color or "#729FCF" ;
+  graph_line_color= blingbling_theme.graph_line_color or "#3465A4" ;
+  text_color= blingbling_theme.text_color or "#aaaaaa" ;
+  font_size= blingbling_theme.font_size or 10 ;
+  font = blingbling_theme.font or "Ubuntu";
   text_background_color = blingbling_theme.text_background_color or "#00000066" ;
   background_text_border = blingbling_theme.background_text_border or "#ffffff";
 --theme values for popups module:
-  htop_title_color = blingbling_theme.htop_title_color or "#7fb219";
-  htop_user_color = blingbling_theme.htop_user_color or "#7fb219";
-  htop_root_color = blingbling_theme.htop_root_color or "#000000";
-  netstat_title_color = blingbling_theme.netstat_title_color or "#7fb219";
+  htop_title_color = blingbling_theme.htop_title_color or "#729FCF";
+  htop_user_color = blingbling_theme.htop_user_color or "#729FCF";
+  htop_root_color = blingbling_theme.htop_root_color or "#C4A000";
+  netstat_title_color = blingbling_theme.netstat_title_color or "#729FCF";
   nestat_established_color = blingbling_theme.nestat_established_color or "#7fb219";
   netstat_listen_color = blingbling_theme.netstat_listen_color or "#f38915";
 --theme values for value_text_box
